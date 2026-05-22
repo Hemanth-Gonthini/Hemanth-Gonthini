@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family:'Times New Roman', serif;">
-  Hi 👋, I'm Hemanth Gonthini
+  Hi 👋, I'm Hemanth
 </h1>
 
 <h3 align="center" style="font-family:'Times New Roman', serif;">
